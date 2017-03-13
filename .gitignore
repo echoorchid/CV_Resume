@@ -175,6 +175,8 @@ TSWLatexianTemp*
 
 # Kile
 *.backup
+*.pdf
+*.DS_Store
 
 # KBibTeX
 *~[0-9]*
